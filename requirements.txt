@@ -7,3 +7,5 @@ matplotlib
 seaborn
 gensim
 xgboost
+import-ipynb
+streamlit
