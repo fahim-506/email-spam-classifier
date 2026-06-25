@@ -220,4 +220,4 @@ __marimo__/
 .streamlit/secrets.toml
 spamORharm
 *.DS_Store
-*.pkl
+# *.pkl
