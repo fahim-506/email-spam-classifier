@@ -221,3 +221,4 @@ __marimo__/
 spamORharm
 *.DS_Store
 # *.pkl
+words_vocabulary.pkl
