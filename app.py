@@ -20,7 +20,7 @@ if st.button("Classify"):
         else:
             st.success("Ham Email")
 
-        # Optional: show raw prediction
+        # show raw prediction
         st.write("Prediction:", prediction[0])
 
     else:
